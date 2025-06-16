@@ -1,0 +1,12 @@
+langchain_community
+langchain_text_splitters
+pdfminer.six
+langchain_chroma
+langchain_together 
+livekit.agents
+livekit
+python_dotenv 
+livekit-agents[google,silero,turn-detector]~=1.0rc
+livekit-agents[turn-detector]~=1.0
+livekit-plugins-noise-cancellation>=0.2.1
+livekit.plugins.turn_detector
